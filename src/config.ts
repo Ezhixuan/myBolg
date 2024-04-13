@@ -7,13 +7,13 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'Fuwari',
-  subtitle: 'Demo Site',
+  title: 'Ezhixuan',
+  subtitle: '记录生活，分享知识',
   lang: 'en',
   themeHue: 250,
   banner: {
-    enable: false,
-    src: 'assets/images/demo-banner.png',
+    enable: true,
+    src: 'https://cdn.jsdelivr.net/gh/Ezhixuan/myPic/images/demo-banner.png',
   },
 }
 
@@ -24,31 +24,31 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.About,
     {
       name: 'GitHub',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://github.com/Ezhixuan',
       external: true,
     },
   ],
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',
-  name: 'Lorem Ipsum',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  avatar: 'https://cdn.jsdelivr.net/gh/Ezhixuan/myPic/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230820141449.jpg',
+  name: 'Ezhixuan',
+  bio: '我们都要成为更好的自己',
   links: [
     {
-      name: 'Twitter',
-      icon: 'fa6-brands:twitter',
-      url: 'https://twitter.com',
+      name: 'weixin',
+      icon: 'fa6-brands:weixin',
+      url: 'https://cdn.jsdelivr.net/gh/Ezhixuan/myPic/images/1c3b2a98937b089f7dc95006c34498e.jpg',
     },
     {
-      name: 'Steam',
-      icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
+      name: 'qq',
+      icon: 'fa6-brands:qq',
+      url: 'https://cdn.jsdelivr.net/gh/Ezhixuan/myPic/images/064ff847188b05eff276e4d6127206d.jpg',
     },
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://github.com/Ezhixuan',
     },
   ],
 }
@@ -58,3 +58,5 @@ export const licenseConfig: LicenseConfig = {
   name: 'CC BY-NC-SA 4.0',
   url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
 }
+
+

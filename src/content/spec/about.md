@@ -1,7 +1,11 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+欢迎来到我的个人网站，这里是Ezhixuan，热爱游戏，不喜欢搬砖的一个努力提升自我的爪哇程序员。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+目前即将毕业，欢迎各位大佬来一起交流学习。
+
+
+### 网站内容
+- 技术分享
+- 生活随笔
+- 游戏开拓
+
